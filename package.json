@@ -1,0 +1,14 @@
+{
+  "name": "capital-gains-nubank",
+  "version": "1.0.0",
+  "description": "Code Challenge: Capital Gains",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "@andrelucasf",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
